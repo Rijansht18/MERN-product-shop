@@ -13,6 +13,5 @@ export default defineConfig({
   },
   build: {
     outDir: 'dist', // Change output directory to 'dist' for Vercel
-    publicDir: 'public',
   },
 })
